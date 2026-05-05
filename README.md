@@ -1,6 +1,6 @@
 # Pairing exercise
 
-A simple TypeScript project for a pairing exercise.
+A simple TypeScript project for a pairing exercise based on <https://reactrouter.com/tutorials/address-book>.
 
 ## Setup
 
@@ -17,5 +17,3 @@ A simple TypeScript project for a pairing exercise.
 ## Start
 
 `npm run start`
-
-Idea and data stolen from https://reactrouter.com/tutorials/address-book
